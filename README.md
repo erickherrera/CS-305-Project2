@@ -18,7 +18,7 @@ Secure server application using SSL
     - In terms of refactoring, a systematic approach was adhered to, entailing preemptive refactoring prior to the introduction of new features. This method was accompanied by the establishment of clear timelines to mitigate the risks associated with last-minute rushes. Rigorous testing procedures were seamlessly integrated into the refactoring process, ensuring that the codebase maintained high standards of functionality and security throughout its evolution.
   
   - What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
-  - I used Stackoverflow, and learning the ins and outs of Eclipse helped a ton when it came to debugging errors related to Maven or Keytool plugin. I also referenced the course book, Iron-Clad Java by Jim Manico, August Detlefsen, when it came to understanding possible vulnerabilities and industry best practices.
+    - I used Stackoverflow, and learning the ins and outs of Eclipse helped a ton when it came to debugging errors related to Maven or Keytool plugin. I also referenced the course book, Iron-Clad Java by Jim Manico, August Detlefsen, when it came to understanding possible vulnerabilities and industry best practices.
 
 
   - Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
